@@ -1,6 +1,7 @@
 {
   "name": "accountstam/kinoa-php-sdk",
   "description": "PHP client library for Kinoa API",
+  "version": "1.0",
   "type": "library",
   "require": {
     "guzzlehttp/guzzle": "^7.0"
